@@ -1,1 +1,1 @@
-mc.viyrs.com/pcversion.json
+https://mc.viyrs.com/pcversion.json
